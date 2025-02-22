@@ -1,6 +1,2 @@
 reset the file
 revert the update changes
-fruits name
-mango 
-orage
-apple
